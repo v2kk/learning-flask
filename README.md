@@ -1,1 +1,2 @@
-# My project's README
+# learning-flask
+Develop simple flask application, learning python,...
